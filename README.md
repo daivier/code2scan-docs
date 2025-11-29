@@ -1,8 +1,8 @@
 # 🚀 Code2Scan – Documentation & Resources
 
 Official website: https://www.code2scan.com  
-SmartLinks: https://www.code2scan.com/en/link-in-bio
-QR Code Generator: https://www.code2scan.com/en/qr-code-generator
+SmartLinks: https://www.code2scan.com/en/link-in-bio        
+QR Code Generator: https://www.code2scan.com/en/qr-code-generator        
 Barcode Generator: https://www.code2scan.com/en/barcode-generator  
 Blog: https://www.code2scan.com/en/blog  
 
